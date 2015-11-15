@@ -1,10 +1,10 @@
 {
   "name": "vivalid-rules-core",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "core rules for the vivalid client side validations library",
   "main": "./lib/vivalid-rules-core.js",
   "dependencies": {
-      "vivalid": "^0.1.0"
+      "vivalid": "^0.1.1"
   },
   "devDependencies": {
       "browserify": "^12.0.1",
