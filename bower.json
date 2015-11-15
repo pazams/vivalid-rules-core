@@ -1,0 +1,27 @@
+{
+  "name": "vivalid-rules-core",
+  "version": "0.1.0",
+  "homepage": "https://github.com/pazams/vivalid-rules-core",
+  "authors": [
+    "pazams <maor@pazams.com>"
+  ],
+  "description": "core rules for the vivalid client side validations library",
+  "main": "dist/vivalid-rules-core-bundle.js",
+  "keywords": [
+    "vivalid",
+    "client",
+    "validation",
+    "rules"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "vivalid": "~0.1.0"
+  }
+}
